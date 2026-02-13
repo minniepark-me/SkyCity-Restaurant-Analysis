@@ -16,11 +16,8 @@ Interactive UI: A sleek, user-friendly interface built for hospitality managers 
 
 🛠️ Tech Stack
 Language: Python 3.x
-
 Web Framework: Streamlit
-
 Data Manipulation: Pandas
-
 Visualization: Plotly / Matplotlib
 
 📂 File Structure
@@ -33,14 +30,10 @@ Visualization: Plotly / Matplotlib
 To run this project locally, follow these steps:
 
 Clone the repository:
-
-Bash
 git clone https://github.com/minniepark-me/SkyCity-Restaurant-Analysis.git
+
 Install dependencies:
-
-Bash
 pip install -r requirements.txt
-Run the Dashboard:
 
-Bash
+Run the Dashboard:
 streamlit run skycity_app.py
